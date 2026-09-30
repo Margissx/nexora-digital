@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-labelledby="title desc">
+  <title id="title">Equipo de profesionales de tecnología de NEXORA DIGITAL</title>
+  <desc id="desc">Ilustración de tres profesionales colaborando frente a una pizarra de estrategia digital.</desc>
+  <rect width="800" height="560" fill="#e5f4f5"/>
+  <rect x="56" y="50" width="688" height="308" rx="16" fill="#f9fcfc"/>
+  <rect x="94" y="87" width="612" height="235" rx="8" fill="#102a36"/>
+  <path d="M142 268h175M142 242h92M142 158h114M142 184h180" stroke="#9dbdc3" stroke-width="8" stroke-linecap="round"/>
+  <path d="M399 164h72v62h-72zM517 131h72v95h-72zM635 190h30v36h-30z" fill="#1bd1e8"/>
+  <path d="M399 246h266" stroke="#547b84" stroke-width="6"/>
+  <path d="M440 164v62M558 131v95" stroke="#102a36" stroke-width="4"/>
+  <g transform="translate(155 345)">
+    <circle cx="92" cy="40" r="38" fill="#f0b58f"/><path d="M55 43c-5-43 76-59 78 5v13H55Z" fill="#294653"/><path d="M31 207c4-90 24-112 61-119 38 7 58 29 63 119Z" fill="#1bd1e8"/><path d="M82 73h22v34H82z" fill="#f0b58f"/>
+  </g>
+  <g transform="translate(325 336)">
+    <circle cx="92" cy="40" r="38" fill="#9f674d"/><path d="M52 42c-8-49 80-59 82 3v18H52Z" fill="#122e3a"/><path d="M31 216c6-93 21-116 61-124 39 8 58 31 63 124Z" fill="#76c2d8"/><path d="M82 73h22v34H82z" fill="#9f674d"/>
+  </g>
+  <g transform="translate(495 350)">
+    <circle cx="92" cy="40" r="38" fill="#d99572"/><path d="M53 41c-4-46 75-57 80 2v19H53Z" fill="#5a3b37"/><path d="M31 202c5-87 22-111 61-119 39 8 58 32 63 119Z" fill="#102a36"/><path d="M82 73h22v34H82z" fill="#d99572"/>
+  </g>
+  <path d="M0 510c168-28 264 13 402-2 149-16 257-41 398-6v58H0Z" fill="#c8e9ec"/>
+</svg>
